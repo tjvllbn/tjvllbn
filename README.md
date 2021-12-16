@@ -2,7 +2,7 @@
 - 👀 I’m interested in app development and designing
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on mobile projects
-- 📫 How to reach me fb.com/tjvllbn instagram.com/tjvllbn/
+- 📫 How to reach me www.fb.com/tjvllbn www.instagram.com/tjvllbn/
 
 <!---
 tjvllbn/tjvllbn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
