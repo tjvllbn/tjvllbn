@@ -10,14 +10,8 @@
 
 <!-- Social Badges with Hover Effects -->
 <p align="center">
-  <a href="https://twitter.com/tjvllbn">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
-  </a>
   <a href="https://linkedin.com/in/tjvllbn">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-  </a>
-  <a href="https://dev.to/tjvllbn">
-    <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0A0A0A" alt="Dev.to"/>
   </a>
   <a href="mailto:tjvllbn@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
@@ -79,7 +73,7 @@ const creative = {
 <p>
   <img src="https://skillicons.dev/icons?i=js,react,vue,html,css,tailwind,sass" alt="Frontend" /><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vercel" alt="Backend & Tools" /><br/>
-  <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,lr,au,ableton,flstudio,figma,blender,vscode" alt="Design & Creative" />
+  <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,au,ableton,figma,blender,vscode" alt="Design & Creative" />
 </p>
 
 </div>
@@ -111,24 +105,6 @@ const creative = {
 
 </div>
 
----
-
-<div align="center">
-
-## 🚀 Featured Projects
-
-</div>
-
-
----
-
-<div align="center">
-
-## 🎵 Spotify Playing
-
-[![Spotify](https://novatorem-tjvllbn.vercel.app/api/spotify)](https://open.spotify.com/user/tjvllbn)
-
-</div>
 
 ---
 
@@ -141,26 +117,6 @@ const creative = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tjvllbn/tjvllbn/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tjvllbn/tjvllbn/output/github-contribution-grid-snake.svg">
 </picture>
-
-</div>
-
----
-
-<div align="center">
-
-## 💬 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-## 🎲 Random Dev Meme
-
-<img src='https://memer-new.vercel.app/' style="height: 400px;" alt="Meme"/>
 
 </div>
 
@@ -205,7 +161,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with love"/>
+  <img src="https://img.shields.io/badge/Made%20with-🤍-white?style=for-the-badge" alt="Made with love"/>
   <img src="https://img.shields.io/badge/Powered%20by-Coffee-brown?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Powered by coffee"/>
 </p>
 
