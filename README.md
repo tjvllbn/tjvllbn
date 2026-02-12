@@ -1,30 +1,64 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there!%20I'm%20Tristan%20Jacob&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+<!-- Dark Hero Background - Portfolio Style -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Creative+Director+%7C+Designer+%7C+Developer;Crafting+experiences+that+inspire+%E2%9C%A8" alt="Typing SVG" /></a>
+<br/><br/>
+
+<!-- Portfolio-Style Hero Content -->
+<h1 style="font-family:Cabinet+Grotesk; font-size: i3.5rem; font-weight: 900; margin: 0; color: #e5e5e5; letter-spacing: -0.02em;">
+  HI! I'M TJ.
+</h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cabinet+Grotesk&weight=900&size=45&duration=2000&pause=500&color=D23D00&center=true&vCenter=true&width=800&height=70&lines=I'M+A+UI/UX+DESIGNER;I'M+A+WEB+DESIGNER;I'M+A+BRAND+DESIGNER;I'M+A+GRAPHIC+DESIGNER;I'M+A+CREATIVE+DIRECTOR" alt="Role Cycling" />
+</div>
+
+<p align="center" style="font-size: 2rem; color: rgba(229, 229, 229, 0.75); max-width: 800px; margin: 1.5rem auto;">
+  <sub><sup>Brewing exceptional digital experiences through web and mobile design, UI/UX, and branding.</sup></sub>
+</p>
 
 <br/>
 
-<!-- Social Badges with Hover Effects -->
+<!-- CTA Button -->
 <p align="center">
-  <a href="https://linkedin.com/in/tjvllbn">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:tjvllbn@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
-  </a>
-  <a href="https://tristanjacob.vercel.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF7139" alt="Portfolio"/>
+  <a href="#-lets-connect">
+    <img src="https://img.shields.io/badge/START_A_PROJECT-D23D00?style=for-the-badge&logo=&logoColor=E5E5E5&labelColor=17171c" alt="Start a Project" height="60"/>
   </a>
 </p>
 
-<!-- Profile Views Counter -->
+<br/>
+
+<!-- Stats Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tjvllbn&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/10%2B-Years%20Experience-D23D00?style=for-the-badge&labelColor=17171c&color=D23D00" alt="Experience"/>
+  <img src="https://img.shields.io/badge/20%2B-Clients%20Served-D23D00?style=for-the-badge&labelColor=17171c&color=D23D00" alt="Clients"/>
+  <img src="https://img.shields.io/badge/3-Director%20Roles-D23D00?style=for-the-badge&labelColor=17171c&color=D23D00" alt="Roles"/>
+  <img src="https://img.shields.io/badge/%E2%88%9E-Creative%20Solutions-D23D00?style=for-the-badge&labelColor=17171c&color=D23D00" alt="Solutions"/>
 </p>
+
+<!-- Social Links -->
+<p align="center">
+  <a href="https://linkedin.com/in/tjvllbn">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=e5e5e5&labelColor=17171c" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:tjvllbn@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D23D00?style=for-the-badge&logo=gmail&logoColor=e5e5e5&labelColor=17171c" alt="Email"/>
+  </a>
+  <a href="https://tristanjacob.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-D23D00?style=for-the-badge&logo=vercel&logoColor=e5e5e5&labelColor=17171c" alt="Portfolio"/>
+  </a>
+  <a href="https://twitter.com/tjvllbn">
+    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=e5e5e5&labelColor=17171c" alt="Twitter"/>
+  </a>
+</p>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tjvllbn&label=PROFILE+VIEWS&color=D23D00&style=for-the-badge&labelColor=17171c" alt="Profile views" />
+</p>
+
+<br/>
 
 </div>
 
@@ -32,48 +66,112 @@
 
 <div align="center">
 
-## 🎯 About Me
+## 💭 ABOUT ME
 
 </div>
 
-```typescript
-const creative = {
-    name: "Tristan Jacob Villabona",
-    location: "📍 General Santos, Philippines",
-    role: "Creative Director & Designer",
-    code: ["JavaScript", "HTML/CSS"],
-    technologies: {
-        design: {
-            tools: ["Framer", "Photoshop", "Illustrator", "After Effects", "Lightroom"],
-            skills: ["Branding", "UI/UX", "Motion Graphics", "Photo Editing"]
-        },
-        development: {
-            frameworks: ["React", "Vue", "Three.js", "GSAO"],
-            styling: ["TailwindCSS", "SASS", "Styled Components"]
-        },
-        multimedia: {
-            audio: ["Ableton Live", "FL Studio"],
-            3d: ["Blender"],
-            video: ["After Effects", "Premiere Pro"]
-        },
-        tools: ["Figma", "Git", "VS Code", "Adobe Creative Suite"]
-    },
-    currentFocus: "Bridging design & development to create memorable digital experiences",
-    funFact: "I create beats and visuals with the same passion I code 🎨🎵"
+<table align="center" style="width: 90%; border: none;">
+<tr>
+<td width="50%" valign="top">
+
+```javascript
+const tristanJacob = {
+  location: "📍 General Santos, PH",
+  status: "🟢 Open to opportunities",
+  role: "Creative Director",
+  
+  expertise: {
+    design: [
+      "UI/UX Design & Research",
+      "Brand Identity & Strategy", 
+      "Motion & Interaction Design",
+      "Event & Experience Design"
+    ],
+    development: [
+      "React", "Vue", "Three.js",
+      "GSAP Animations",
+      "Responsive Design"
+    ],
+    multimedia: [
+      "Audio Production",
+      "3D Modeling",
+      "Video Editing"
+    ]
+  },
+  
+  philosophy: 
+    "Great design is invisible — " +
+    "it feels effortless while being " +
+    "meticulously crafted behind the scenes."
 };
 ```
 
+</td>
+<td width="50%" valign="top">
+
+### 🎯 SPECIALTIES
+
+- **UI/UX Design & Research**  
+  Creating intuitive, user-centered digital experiences
+
+- **Brand Identity & Strategy**  
+  Building cohesive visual languages that tell stories
+
+- **Motion & Interaction Design**  
+  Bringing interfaces to life with purposeful animations
+
+- **Full-Stack Development**  
+  Bridging design and code to build production-ready products
+
+### 🚀 CURRENT FOCUS
+
+Brewing exceptional digital experiences through web and mobile design, UI/UX, and branding.
+
+</td>
+</tr>
+</table>
+
 ---
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## 🛠️ TECH STACK
 
-<!-- Animated Skill Icons -->
+</div>
+
+<div align="center">
+
+### Design & Creative Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=js,react,vue,html,css,tailwind,sass" alt="Frontend" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vercel" alt="Backend & Tools" /><br/>
-  <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,au,ableton,figma,blender,vscode" alt="Design & Creative" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=17171c" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=17171c" alt="Photoshop"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white&labelColor=17171c" alt="Illustrator"/>
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white&labelColor=17171c" alt="After Effects"/>
+  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white&labelColor=17171c" alt="Premiere Pro"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white&labelColor=17171c" alt="Blender"/>
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white&labelColor=17171c" alt="Framer"/>
+</p>
+
+### Development Stack
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=17171c" alt="React"/>
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=17171c" alt="Vue"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white&labelColor=17171c" alt="Three.js"/>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white&labelColor=17171c" alt="GSAP"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=17171c" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=17171c" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=17171c" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=17171c" alt="Git"/>
+</p>
+
+### Audio & Music Production
+
+<p>
+  <img src="https://img.shields.io/badge/Ableton%20Live-000000?style=for-the-badge&logo=ableton-live&logoColor=white&labelColor=17171c" alt="Ableton"/>
+  <img src="https://img.shields.io/badge/FL%20Studio-FF7C00?style=for-the-badge&logoColor=white&labelColor=17171c" alt="FL Studio"/>
+  <img src="https://img.shields.io/badge/Audition-9999FF?style=for-the-badge&logo=adobe-audition&logoColor=white&labelColor=17171c" alt="Audition"/>
 </p>
 
 </div>
@@ -82,89 +180,139 @@ const creative = {
 
 <div align="center">
 
-## 📊 GitHub Statistics
+## 📊 GITHUB STATS
 
-<!-- GitHub Stats Cards -->
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tjvllbn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjvllbn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-</p>
-
+<br/>
 <!-- Streak Stats -->
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tjvllbn&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=f85149&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tjvllbn&theme=dark&hide_border=true&background=0d0d0f&stroke=D23D00&ring=D23D00&fire=C2410C&currStreakLabel=e5e5e5&sideLabels=e5e5e5&currStreakNum=e5e5e5&sideNums=e5e5e5&dates=8b949e" alt="GitHub Streak" />
+
+<br/><br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tjvllbn&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=c9d1d9" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tjvllbn&custom_title=Contribution%20Graph&theme=tokyo-night&hide_border=true&bg_color=0d0d0f&color=D23D00&line=C2410C&point=e5e5e5&area=true&area_color=D23D00" alt="Contribution Graph" width="95%"/>
 
-<!-- Trophy Stats -->
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=tjvllbn&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" width="100%"/>
+</div>
+
+
+---
+
+<div align="center">
+
+## 💼 SERVICES
+
+</div>
+
+<table align="center" style="width: 90%;">
+<tr>
+<td width="33%" align="center" valign="top">
+
+### 🎨 DESIGN
+
+- Brand Identity
+- UI/UX Design  
+- Motion Graphics
+- Web & Mobile Design
+- Design Systems
+- Illustration
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 💻 DEVELOPMENT
+
+- React Applications
+- Vue.js Projects
+- 3D Web Experiences
+- GSAP Animations
+- Responsive Layouts
+- Performance Optimization
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🎬 MULTIMEDIA
+
+- Video Editing
+- Audio Production
+- 3D Modeling
+- Photography
+- Content Creation
+- Creative Direction
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🤝 LET'S CONNECT!
+
+<br/>
+
+I'm always open to interesting conversations and collaboration opportunities.
+
+### **Ready to create something extraordinary?**
+
+<br/>
+
+<a href="mailto:tjvllbn@gmail.com">
+  <img src="https://img.shields.io/badge/LET'S%20TALK-D23D00?style=for-the-badge&logo=gmail&logoColor=e5e5e5&labelColor=17171c" alt="Let's Talk" height="50"/>
+</a>
+
+<br/><br/>
+
+**📍 General Santos City, Philippines · Remote**
+
+**🟢 Open to opportunities**
+
+<br/>
+
+---
+
+### Support My Work
+
+<a href="https://www.buymeacoffee.com/tjvllbn" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="50px">
+</a>
+
+<br/><br/>
+
+</div>
+
+---
+
+<br/><br/>
+
+<div align="center">
+
+<!-- Portfolio-Style Closing -->
+<img src="https://readme-typing-svg.demolab.com?font=Cabinet+Grotesk&weight=750&size=38&duration=3000&pause=1000&color=E5E5E5&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Ready+to+create+something;extraordinary%3F" alt="Closing" />
+
+<br/><br/>
+
+<!-- Let's Talk Button -->
+<a href="mailto:tjvllbn@gmail.com">
+  <img src="https://img.shields.io/badge/LET'S_TALK_→-D23D00?style=for-the-badge&logoColor=E5E5E5&labelColor=17171c" alt="Let's Talk" height="50"/>
+</a>
+
+<br/><br/><br/>
+
+<!-- Divider Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<br/>
+
+<!-- Footer Info -->
+<p align="center">
+  <sub>⭐ If you like what you see, consider starring my repos!</sub>
 </p>
-
-</div>
-
-
----
-
-<div align="center">
-
-## 📈 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tjvllbn/tjvllbn/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tjvllbn/tjvllbn/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tjvllbn/tjvllbn/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-## 🤝 Let's Connect!
-
-I'm always open to interesting conversations and collaboration opportunities!
-
-**💼 Looking for:** Creative projects, Design collaborations, Full-time opportunities
-
-**📫 Reach me at:** 
-- Email: tjvllbn@gmail.com
-- LinkedIn: [Tristan Jacob Villabona](https://linkedin.com/in/tjvllbn)
-- Twitter: [@tjvllbn](https://twitter.com/tjvllbn)
-- Portfolio: [Tristan Jacob](https://tristanjacob.vercel.app/)
-
-**☕ Support my work:**
-
-<a href="https://www.buymeacoffee.com/tjvllbn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Fun Stats
-
-<!-- WakaTime Stats -->
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-🤍-white?style=for-the-badge" alt="Made with love"/>
-  <img src="https://img.shields.io/badge/Powered%20by-Coffee-brown?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Powered by coffee"/>
+  <sub>Made with ❤️ and ☕ • Brewing exceptional digital experiences since 2014</sub>
 </p>
 
-**⭐ If you like what you see, consider giving my repos a star!**
+<br/>
 
 </div>
