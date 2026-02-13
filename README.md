@@ -6,16 +6,17 @@
 <br/><br/>
 
 <!-- Portfolio-Style Hero Content -->
-<h1 style="font-family:Cabinet+Grotesk; font-size: i3.5rem; font-weight: 900; margin: 0; color: #e5e5e5; letter-spacing: -0.02em;">
-  HI! I'M TJ.
-</h1>
-
+<text style="font-family:Cabinet+Grotesk; font-size: 4511111px; font-weight: 900; margin: 0; color: #e5e5e5; letter-spacing: -0.02em;">
+  Hi! I'm Tj.
+    I'm a 
+    <text/>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cabinet+Grotesk&weight=900&size=45&duration=2000&pause=500&color=D23D00&center=true&vCenter=true&width=800&height=70&lines=I'M+A+UI/UX+DESIGNER;I'M+A+WEB+DESIGNER;I'M+A+BRAND+DESIGNER;I'M+A+GRAPHIC+DESIGNER;I'M+A+CREATIVE+DIRECTOR" alt="Role Cycling" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Cabinet+Grotesk&weight=900&size=45&duration=2000&pause=500&color=D23D00&center=true&vCenter=true&width=800&height=70&lines=UI/UX+DESIGNER;WEB+DESIGNER;BRAND+DESIGNER;GRAPHIC+DESIGNER;CREATIVE+DIRECTOR" alt="Role Cycling" />
 </div>
 
 <p align="center" style="font-size: 2rem; color: rgba(229, 229, 229, 0.75); max-width: 800px; margin: 1.5rem auto;">
-  <sub><sup>Brewing exceptional digital experiences through web and mobile design, UI/UX, and branding.</sup></sub>
+  <sup>Brewing exceptional digital experiences through web and mobile design, UI/UX, and branding.</sub>
 </p>
 
 <br/>
@@ -47,9 +48,6 @@
   </a>
   <a href="https://tristanjacob.vercel.app/">
     <img src="https://img.shields.io/badge/PORTFOLIO-D23D00?style=for-the-badge&logo=vercel&logoColor=e5e5e5&labelColor=17171c" alt="Portfolio"/>
-  </a>
-  <a href="https://twitter.com/tjvllbn">
-    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=e5e5e5&labelColor=17171c" alt="Twitter"/>
   </a>
 </p>
 
@@ -120,8 +118,8 @@ const tristanJacob = {
 - **Motion & Interaction Design**  
   Bringing interfaces to life with purposeful animations
 
-- **Full-Stack Development**  
-  Bridging design and code to build production-ready products
+- **Event & Experience Design**  
+  Crafting experiences that makes an event worth while
 
 ### 🚀 CURRENT FOCUS
 
@@ -146,6 +144,7 @@ Brewing exceptional digital experiences through web and mobile design, UI/UX, an
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=17171c" alt="Figma"/>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=17171c" alt="Photoshop"/>
+  <img src="https://img.shields.io/badge/Lightroom?style=for-the-badge&logo=adobe-lightroomclassic&logoColor=white&labelColor=17171c" alt="Lightroom"/>
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white&labelColor=17171c" alt="Illustrator"/>
   <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white&labelColor=17171c" alt="After Effects"/>
   <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white&labelColor=17171c" alt="Premiere Pro"/>
@@ -213,15 +212,13 @@ Brewing exceptional digital experiences through web and mobile design, UI/UX, an
 - Motion Graphics
 - Web & Mobile Design
 - Design Systems
-- Illustration
 
 </td>
 <td width="33%" align="center" valign="top">
 
 ### 💻 DEVELOPMENT
 
-- React Applications
-- Vue.js Projects
+- Web and Mobile Web-apps
 - 3D Web Experiences
 - GSAP Animations
 - Responsive Layouts
@@ -236,6 +233,8 @@ Brewing exceptional digital experiences through web and mobile design, UI/UX, an
 - Audio Production
 - 3D Modeling
 - Photography
+- Videography
+- Digital Art
 - Content Creation
 - Creative Direction
 
@@ -267,47 +266,9 @@ I'm always open to interesting conversations and collaboration opportunities.
 
 **🟢 Open to opportunities**
 
-<br/>
-
----
-
-### Support My Work
-
-<a href="https://www.buymeacoffee.com/tjvllbn" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="50px">
-</a>
-
-<br/><br/>
-
-</div>
-
----
-
-<br/><br/>
 
 <div align="center">
 
-<!-- Portfolio-Style Closing -->
-<img src="https://readme-typing-svg.demolab.com?font=Cabinet+Grotesk&weight=750&size=38&duration=3000&pause=1000&color=E5E5E5&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Ready+to+create+something;extraordinary%3F" alt="Closing" />
-
-<br/><br/>
-
-<!-- Let's Talk Button -->
-<a href="mailto:tjvllbn@gmail.com">
-  <img src="https://img.shields.io/badge/LET'S_TALK_→-D23D00?style=for-the-badge&logoColor=E5E5E5&labelColor=17171c" alt="Let's Talk" height="50"/>
-</a>
-
-<br/><br/><br/>
-
-<!-- Divider Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-<br/>
-
-<!-- Footer Info -->
-<p align="center">
-  <sub>⭐ If you like what you see, consider starring my repos!</sub>
-</p>
 
 <p align="center">
   <sub>Made with ❤️ and ☕ • Brewing exceptional digital experiences since 2014</sub>
