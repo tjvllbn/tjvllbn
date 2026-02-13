@@ -144,7 +144,6 @@ Brewing exceptional digital experiences through web and mobile design, UI/UX, an
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=17171c" alt="Figma"/>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=17171c" alt="Photoshop"/>
-  <img src="https://img.shields.io/badge/Lightroom?style=for-the-badge&logo=adobe-lightroomclassic&logoColor=white&labelColor=17171c" alt="Lightroom"/>
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white&labelColor=17171c" alt="Illustrator"/>
   <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white&labelColor=17171c" alt="After Effects"/>
   <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white&labelColor=17171c" alt="Premiere Pro"/>
