@@ -86,14 +86,6 @@ One story, brand to product. Full range, one hand, no handoffs.
 
 ---
 
-### Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tjvllbn&background=0D0D0F&border=232326&stroke=232326&ring=C7E70C&fire=C7E70C&currStreakLabel=C7E70C&sideLabels=FAFAFA&currStreakNum=FAFAFA&sideNums=FAFAFA&dates=9E9EA2&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
 <p align="center">
   Based in the Philippines, UTC+8. Available Q3 2026. Open to remote.
   <br/>
