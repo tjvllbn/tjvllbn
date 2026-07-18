@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="./cover.webp" alt="Villabona. Brand and product, built to convert." width="100%" />
+  <a href="https://villabona.studio">
+    <img src="./cover.webp" alt="Villabona. Brand and product, built to convert." width="100%" />
+  </a>
 </div>
 
 <div align="center">
