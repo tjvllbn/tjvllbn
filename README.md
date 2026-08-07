@@ -4,12 +4,6 @@
   </a>
 </div>
 
-<div align="center">
-
-[![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=C7E70C&center=true&vCenter=true&width=600&height=40&lines=Brand+and+product%2C+built+to+convert.;One+story%2C+brand+to+product.;Design+that+earns+its+place.;Look+inevitable.)](https://villabona.studio)
-
-</div>
-
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20Q3%202026-C7E70C?style=for-the-badge&labelColor=1B1C1F" alt="Available Q3 2026" />
   <img src="https://img.shields.io/badge/BASED-PHILIPPINES%20·%20UTC%2B8-1B1C1F?style=for-the-badge&labelColor=1B1C1F&color=1B1C1F" alt="Based in the Philippines, UTC+8" />
@@ -27,7 +21,7 @@
 
 ### About
 
-I'm Tristan. I design brands and the products they live in: identity, websites, e-commerce, and software interfaces, treated as one story instead of two separate jobs. I've spent 5+ years across brand, product, and motion, with UI/UX as a newer, sharp focus. Founders get direct access to the person doing the work and one point of accountability for the result.
+UX/UI Designer with hands-on product design experience across government, fintech, e-commerce, and enterprise SaaS platforms, including 18 months building a UI/UX discipline from the ground up in an in-house product role. I work directly with founders and developers as an embedded design partner, using AI-assisted workflows to move quickly without losing craft.
 
 ---
 
@@ -35,8 +29,8 @@ I'm Tristan. I design brands and the products they live in: identity, websites, 
 
 | | |
 |---|---|
-| Brand identity | Names, marks, systems |
 | Product design | Web and app interfaces |
+| Brand identity | Names, marks, systems |
 | Web and motion | Sites, animation, code |
 | Creative direction | Concept through launch |
 | 3D and visualization | Renders, scenes, product |
@@ -81,8 +75,6 @@ Scope   surface the real problem, lock the brief on outcomes
 Build   design and develop in tight loops, brand and product in parallel
 Ship    hand off systems and front-end a team can actually run
 ```
-
-One story, brand to product. Full range, one hand, no handoffs.
 
 ---
 
